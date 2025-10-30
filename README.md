@@ -1,6 +1,6 @@
 # Signature Example
 
-This is a TypeScript NodeJS example that shows how to calculate the signature for registering a self-hosted wallet using the [https://docs.iron.xyz/reference/registerselfhostedwalletaddress-1](IRON api).
+This is a TypeScript NodeJS example that shows how to calculate the signature for registering a self-hosted wallet using the https://docs.iron.xyz/reference/registerselfhostedwalletaddress-1 IRON API.
 
 ## Installation
 
